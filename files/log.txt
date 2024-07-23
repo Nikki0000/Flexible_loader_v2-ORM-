@@ -1,0 +1,28 @@
+2024-07-23 12:24:04,456 - INFO - Added Questionnaire: Тест Терапевт
+2024-07-23 12:24:04,695 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=74, TaskTypeId=4, Order=0
+2024-07-23 12:24:04,840 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=74, TaskTypeId=58, Order=1
+2024-07-23 12:24:04,961 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=102, TaskTypeId=67
+2024-07-23 12:24:05,100 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=20, TaskTypeId=67
+2024-07-23 12:24:05,231 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=21, TaskTypeId=67
+2024-07-23 12:24:05,355 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=102, TaskTypeId=68
+2024-07-23 12:24:05,481 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=20, TaskTypeId=68
+2024-07-23 12:24:05,602 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=74, SpecializationId=21, TaskTypeId=68
+2024-07-23 12:24:05,825 - INFO - Added Question: 1.Контакт с ЛПР установлен.
+2024-07-23 12:24:06,016 - INFO - Added QuestionConfiguration: QuestionId=2102, HeaderId=38
+2024-07-23 12:24:06,235 - INFO - Added QuestionAnswer for QuestionId=2102
+2024-07-23 12:24:06,490 - INFO - Added Question: Скольким пациентам требуется назначение ПОАК (эти пациенты не льготники и покупают за свои деньги) ?
+2024-07-23 12:24:06,677 - INFO - Added QuestionConfiguration: QuestionId=2103, HeaderId=46
+2024-07-23 12:24:06,871 - INFO - Added Question: Какому количеству пациентов удалось назначить Транидаб?
+2024-07-23 12:24:07,019 - INFO - Added QuestionConfiguration: QuestionId=2104, HeaderId=46
+2024-07-23 12:24:07,207 - INFO - Added Question: 1. Имеется пошаговый план реализации закупа
+2024-07-23 12:24:07,393 - INFO - Added QuestionConfiguration: QuestionId=2105, HeaderId=43
+2024-07-23 12:24:07,559 - INFO - Added QuestionAnswer for QuestionId=2105
+2024-07-23 12:24:07,784 - INFO - Added Question: 2. Подведен итог 
+2024-07-23 12:24:07,968 - INFO - Added QuestionConfiguration: QuestionId=2106, HeaderId=43
+2024-07-23 12:24:08,204 - INFO - Added QuestionAnswer for QuestionId=2106
+2024-07-23 12:24:08,377 - INFO - Added Question: 1. Выполнение поставленной Цели.
+2024-07-23 12:24:08,522 - INFO - Added QuestionConfiguration: QuestionId=2107, HeaderId=44
+2024-07-23 12:24:08,665 - INFO - Added QuestionAnswer for QuestionId=2107
+2024-07-23 12:24:08,836 - INFO - Added Question: 2.Результаты визита зафиксированы.
+2024-07-23 12:24:08,991 - INFO - Added QuestionConfiguration: QuestionId=2108, HeaderId=44
+2024-07-23 12:24:09,139 - INFO - Added QuestionAnswer for QuestionId=2108
