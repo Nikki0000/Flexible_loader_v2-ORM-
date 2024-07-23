@@ -1,11 +1,11 @@
 import pandas as pd
 from sqlalchemy.orm import sessionmaker
-from models import Questionnaire, QuestionnaireHeader, Question, QuestionConfiguration, QuestionAnswer, QuestionnaireToTaskType, QuestionnaireToTaskTypeSpecialization
+from model import Questionnaire, QuestionnaireHeader, Question, QuestionConfiguration, QuestionAnswer, QuestionnaireToTaskType, QuestionnaireToTaskTypeSpecialization
 from logger import Logger
 from datetime import datetime
 import re
 
-from services.base_servise import BaseService
+from service.base_servise import BaseService
 
 class UsualQuestionnaireService(BaseService):
     def __init__(self, file_path, engine):

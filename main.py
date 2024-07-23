@@ -1,5 +1,5 @@
-from models import Base, get_engine
-from services.usual_questionnaire_service import UsualQuestionnaireService
+from model import Base, get_engine
+from service.usual_questionnaire_service import UsualQuestionnaireService
 from config import db_connection
 
 def main():
