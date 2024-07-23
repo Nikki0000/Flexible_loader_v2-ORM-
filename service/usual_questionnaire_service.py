@@ -65,25 +65,10 @@ class UsualQuestionnaireService(BaseService):
 
             self.logger.log_to_file(f"Added Questionnaire: {questionnaire.Name}")
 
-            # task_type = QuestionnaireToTaskType(QuestionnaireId=int(questionnaire.Id), TaskTypeId=int(visit_type), CreatedOn=datetime.utcnow(), ModifiedOn=datetime.utcnow(), Order=0)
-            # session.add(task_type)
-            # session.commit()
-            # print(visit_types)
             visit_types = str(visit_types)
             visit_types = re.sub(r'\s+', '', visit_types)
             visit_types = visit_types.split(',')
             visit_types = list(map(int, visit_types))
-
-            # if isinstance(visit_types, str):
-            #     visit_types = visit_types.split(',')
-            # elif isinstance(visit_types, (int, float)):
-            #     visit_types = [visit_types]
-            # elif isinstance(visit_types, list):
-            #     visit_types = [str(vt).strip() for vt in visit_types]
-            # else:
-            #     raise ValueError(f"Unsupported type for visit_types: {type(visit_types)}")
-
-            # print(visit_types)
 
             task_type_ids = []
             
@@ -115,8 +100,6 @@ class UsualQuestionnaireService(BaseService):
 
 
             # добавляем хэдер и вопросы
-            # headers = {}
-            # row_number = 1
             for row_idx in range(header_and_question_df.shape[0]):
                 header_name = header_and_question_df.iloc[row_idx, 0]
                 question_name = header_and_question_df.iloc[row_idx, 1]

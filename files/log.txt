@@ -26,3 +26,91 @@
 2024-07-23 12:24:08,836 - INFO - Added Question: 2.Результаты визита зафиксированы.
 2024-07-23 12:24:08,991 - INFO - Added QuestionConfiguration: QuestionId=2108, HeaderId=44
 2024-07-23 12:24:09,139 - INFO - Added QuestionAnswer for QuestionId=2108
+2024-07-23 13:22:17,800 - INFO - Added Questionnaire: Тест Анкета Групповой двойной визит
+2024-07-23 13:22:17,983 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=75, TaskTypeId=10, Order=0
+2024-07-23 13:22:18,154 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=75, TaskTypeId=16, Order=1
+2024-07-23 13:22:18,348 - INFO - Added Question: 1.SMART-Цель на данный визит согласно истории развития клиента и ЛПУ и результатам предыдущего визита.
+2024-07-23 13:22:18,521 - INFO - Added QuestionConfiguration: QuestionId=2109, HeaderId=37
+2024-07-23 13:22:18,734 - INFO - Added QuestionAnswer for QuestionId=2109
+2024-07-23 13:22:18,933 - INFO - Added Question: 2. Получена вся необходимая информация для визита (потребность отделений, расход препарата и фарм.группы за месяц, медицинская и фармако-экономическая информация, финансирование и т.д.) 
+2024-07-23 13:22:19,106 - INFO - Added QuestionConfiguration: QuestionId=2110, HeaderId=37
+2024-07-23 13:22:19,514 - INFO - Added QuestionAnswer for QuestionId=2110
+2024-07-23 13:22:19,844 - INFO - Added Question: 1.Контакт с ЛПР установлен.
+2024-07-23 13:22:20,198 - INFO - Added QuestionConfiguration: QuestionId=2111, HeaderId=38
+2024-07-23 13:22:20,459 - INFO - Added QuestionAnswer for QuestionId=2111
+2024-07-23 13:22:20,739 - INFO - Added Question: 2.Выявлен опыт применения препарата, МНН, фарм.группы в ЛПУ и договоренности
+2024-07-23 13:22:21,038 - INFO - Added QuestionConfiguration: QuestionId=2112, HeaderId=38
+2024-07-23 13:22:21,201 - INFO - Added QuestionAnswer for QuestionId=2112
+2024-07-23 13:22:21,428 - INFO - Added Question: 1. Потребность ЛПУ в препаратах ИФ и конкурентах из категории
+2024-07-23 13:22:21,687 - INFO - Added QuestionConfiguration: QuestionId=2113, HeaderId=39
+2024-07-23 13:22:21,857 - INFO - Added QuestionAnswer for QuestionId=2113
+2024-07-23 13:22:22,147 - INFO - Added Question: 2. Текущая ситуация (закуп - уходимость препаратов ИФ и конкурентов, бюджет)
+2024-07-23 13:22:22,299 - INFO - Added QuestionConfiguration: QuestionId=2114, HeaderId=39
+2024-07-23 13:22:22,483 - INFO - Added QuestionAnswer for QuestionId=2114
+2024-07-23 13:22:22,668 - INFO - Added Question: 3. Сдерживающие/cтимулирующие факторы
+2024-07-23 13:22:22,890 - INFO - Added QuestionConfiguration: QuestionId=2115, HeaderId=39
+2024-07-23 13:22:23,217 - INFO - Added QuestionAnswer for QuestionId=2115
+2024-07-23 13:22:23,451 - INFO - Added Question: 4. Сроки и периодичность заявки
+2024-07-23 13:22:23,824 - INFO - Added QuestionConfiguration: QuestionId=2116, HeaderId=39
+2024-07-23 13:22:24,009 - INFO - Added QuestionAnswer for QuestionId=2116
+2024-07-23 13:22:24,293 - INFO - Added Question: Презентация преимуществ применения  фокусных препаратов ИФ для ЛПУ с использованием выявленной потребности и необходимых аргументов (медицинских, фармако-экономических)
+2024-07-23 13:22:24,573 - INFO - Added QuestionConfiguration: QuestionId=2117, HeaderId=40
+2024-07-23 13:22:24,749 - INFO - Added QuestionAnswer for QuestionId=2117
+2024-07-23 13:22:24,981 - INFO - Added Question: Донесение на визите Ключевого сообщения по фокусному препарату согласно маркетинговой сетке
+2024-07-23 13:22:25,208 - INFO - Added QuestionConfiguration: QuestionId=2118, HeaderId=41
+2024-07-23 13:22:25,363 - INFO - Added QuestionAnswer for QuestionId=2118
+2024-07-23 13:22:25,577 - INFO - Added Question: 1.Реакция на презентацию отработана
+2024-07-23 13:22:25,723 - INFO - Added QuestionConfiguration: QuestionId=2119, HeaderId=42
+2024-07-23 13:22:25,914 - INFO - Added QuestionAnswer for QuestionId=2119
+2024-07-23 13:22:26,100 - INFO - Added Question: 2.Негативные реакции и возражения сняты
+2024-07-23 13:22:26,292 - INFO - Added QuestionConfiguration: QuestionId=2120, HeaderId=42
+2024-07-23 13:22:26,545 - INFO - Added QuestionAnswer for QuestionId=2120
+2024-07-23 13:22:26,754 - INFO - Added Question: 1.Получено измеримое (количество/доля) подтверждение по закупу, согласно Цели визита, определены сроки закупки
+2024-07-23 13:22:27,110 - INFO - Added QuestionConfiguration: QuestionId=2121, HeaderId=43
+2024-07-23 13:22:27,331 - INFO - Added QuestionAnswer for QuestionId=2121
+2024-07-23 13:22:27,516 - INFO - Added Question: 2.Предпочтения по поставщикам 
+2024-07-23 13:22:27,681 - INFO - Added QuestionConfiguration: QuestionId=2122, HeaderId=43
+2024-07-23 13:22:27,830 - INFO - Added QuestionAnswer for QuestionId=2122
+2024-07-23 13:22:28,051 - INFO - Added Question: 3. Имеется пошаговый план реализации закупа
+2024-07-23 13:22:28,260 - INFO - Added QuestionConfiguration: QuestionId=2123, HeaderId=43
+2024-07-23 13:22:28,438 - INFO - Added QuestionAnswer for QuestionId=2123
+2024-07-23 13:22:28,725 - INFO - Added Question: 4. Подведен итог 
+2024-07-23 13:22:28,957 - INFO - Added QuestionConfiguration: QuestionId=2124, HeaderId=43
+2024-07-23 13:22:29,344 - INFO - Added QuestionAnswer for QuestionId=2124
+2024-07-23 13:22:29,614 - INFO - Added Question: 1. Выполнение поставленной Цели.
+2024-07-23 13:22:29,823 - INFO - Added QuestionConfiguration: QuestionId=2125, HeaderId=44
+2024-07-23 13:22:29,997 - INFO - Added QuestionAnswer for QuestionId=2125
+2024-07-23 13:22:30,243 - INFO - Added Question: 2.Результаты визита зафиксированы.
+2024-07-23 13:22:30,652 - INFO - Added QuestionConfiguration: QuestionId=2126, HeaderId=44
+2024-07-23 13:22:31,122 - INFO - Added QuestionAnswer for QuestionId=2126
+2024-07-23 13:22:31,397 - INFO - Added Question: 3.Цель (SMART) на следующий визит поставлена по результатам данного визита. 
+2024-07-23 13:22:31,591 - INFO - Added QuestionConfiguration: QuestionId=2127, HeaderId=44
+2024-07-23 13:22:31,801 - INFO - Added QuestionAnswer for QuestionId=2127
+2024-07-23 13:22:32,004 - INFO - Added Question: 4.План развития клиента, ЛПУ
+2024-07-23 13:22:32,152 - INFO - Added QuestionConfiguration: QuestionId=2128, HeaderId=44
+2024-07-23 13:22:32,516 - INFO - Added QuestionAnswer for QuestionId=2128
+2024-07-23 13:27:34,307 - INFO - Added Questionnaire: Тест Терапевт_v2
+2024-07-23 13:27:34,488 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=76, TaskTypeId=4, Order=0
+2024-07-23 13:27:34,643 - INFO - Added QuestionnaireToTaskType: QuestionnaireId=76, TaskTypeId=58, Order=1
+2024-07-23 13:27:34,801 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=102, TaskTypeId=71
+2024-07-23 13:27:35,002 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=20, TaskTypeId=71
+2024-07-23 13:27:35,177 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=21, TaskTypeId=71
+2024-07-23 13:27:35,302 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=102, TaskTypeId=72
+2024-07-23 13:27:35,424 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=20, TaskTypeId=72
+2024-07-23 13:27:35,569 - INFO - Added QuestionnaireToTaskTypeSpecialization: QuestionnaireId=76, SpecializationId=21, TaskTypeId=72
+2024-07-23 13:27:35,749 - INFO - Added Question: 1.Контакт с ЛПР установлен.
+2024-07-23 13:27:35,891 - INFO - Added QuestionConfiguration: QuestionId=2129, HeaderId=38
+2024-07-23 13:27:36,111 - INFO - Added QuestionAnswer for QuestionId=2129
+2024-07-23 13:27:36,498 - INFO - Added Question: Скольким пациентам требуется назначение ПОАК (эти пациенты не льготники и покупают за свои деньги) ?
+2024-07-23 13:27:36,686 - INFO - Added QuestionConfiguration: QuestionId=2130, HeaderId=46
+2024-07-23 13:27:36,921 - INFO - Added Question: Какому количеству пациентов удалось назначить Транидаб?
+2024-07-23 13:27:37,065 - INFO - Added QuestionConfiguration: QuestionId=2131, HeaderId=46
+2024-07-23 13:27:37,216 - INFO - Added Question: 1. Имеется пошаговый план реализации закупа
+2024-07-23 13:27:37,381 - INFO - Added QuestionConfiguration: QuestionId=2132, HeaderId=43
+2024-07-23 13:27:37,542 - INFO - Added QuestionAnswer for QuestionId=2132
+2024-07-23 13:27:37,731 - INFO - Added Question: 2. Подведен итог 
+2024-07-23 13:27:37,923 - INFO - Added QuestionConfiguration: QuestionId=2133, HeaderId=43
+2024-07-23 13:27:38,081 - INFO - Added QuestionAnswer for QuestionId=2133
+2024-07-23 13:27:38,269 - INFO - Added Question: 1. Выполнение поставленной Цели.
+2024-07-23 13:27:38,423 - INFO - Added QuestionConfiguration: QuestionId=2134, HeaderId=44
+2024-07-23 13:27:38,595 - INFO - Added QuestionAnswer for QuestionId=2134

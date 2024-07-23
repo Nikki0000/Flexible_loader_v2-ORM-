@@ -8,12 +8,6 @@ def main():
     engine = get_engine(db_connection)
     Base.metadata.create_all(engine)
 
-    # data_loader = DataLoader(file_path)
-    # questionnaire_name, visit_types, specializations, header_and_question_df = data_loader.load_data()
-
-    # data_processor = DataProcessor(engine)
-    # data_processor.insert_data(questionnaire_name, visit_types, specializations, header_and_question_df)
-
     service = UsualQuestionnaireService(file_path, engine)
     questionnaire_name, visit_types, specializations, header_and_question_df = service.load_data()
     service.insert_data(questionnaire_name, visit_types, specializations, header_and_question_df)
